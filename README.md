@@ -1,6 +1,6 @@
-## Hi, I'm Līga 👋
+## Hi, I'm Līga 👋🏻
 
-Junior Fullstack Developer (Python/Django + React/TypeScript)
+Fullstack Developer (Python/Django + React/TypeScript)
 
 🔭 Currently building: [Planning Hub](https://github.com/liga-auguste/planning-hub) — an AI-powered project planning assistant (Django + Claude API + Notion) → [live demo](https://planninghub.ligaauguste.de)
 
